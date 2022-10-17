@@ -1,0 +1,21 @@
+nav ul li {
+    list-style: none;
+}
+
+.img-avatar {
+    width: 200px;
+    aspect-ratio: 1/1;
+}
+
+.line {
+    border: 1px solid grey;
+    width: 20%;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-nav {
+    background-color: rgb(48	61	78);
+}
